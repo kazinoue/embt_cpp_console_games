@@ -4,7 +4,8 @@
 
 ## [C++Builder](https://www.embarcadero.com/jp/products/cbuilder)コマンドライン起動
 
-このプログラムは、cmake＋ninjaでビルドします。  
+このプログラムは、cmake＋ninjaでビルドします。
+http://docwiki.embarcadero.com/RADStudio/Tokyo/en/Using_CMake_with_C%2B%2B_Builder    
 それにはC++Builder付属のrsvarsバッチファイル実行が必要です。
 
 ```bat
